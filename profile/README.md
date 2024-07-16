@@ -1,4 +1,4 @@
-<h1 align="center"><a href="http://datenshi.pw"><img src="https://raw.githubusercontent.com/osu-datenshi/assets/master/logo.png"></h1>
+<h1 align="center"><a href="http://hakuchisign.netlify.app"><img src="https://raw.githubusercontent.com/hakuchisign/assets/main/logo.png"></h1>
 
 # About us
 
@@ -12,8 +12,5 @@ If you're looking for a gaming server provider that puts your needs first, look 
 
 # Links
 
-- [GitLab](https://gitlab.com/osudatenshi)
-- [Portal](https://datenshi.pw)
-- [osu!](https://osu.datenshi.pw)
-- [Minecraft](https://mc.datenshi.pw)
-- [LinkedIn](https://www.linkedin.com/company/datenshi-games-id/)
+- [GitLab](https://github.com/hakuchisign)
+- [Portal](https://hakuchisign.netlify.app)
